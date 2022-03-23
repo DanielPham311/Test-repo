@@ -8,5 +8,5 @@ int main()
     int a;
     cin >> a;
 
-    cout << "Hello";
+    cin >> a;
 }
