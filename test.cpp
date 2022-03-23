@@ -9,5 +9,5 @@ int main()
     cin >> a;
 
     cin >> a;
-    cout << "Have fin";
+    cout << "Have fun";
 }
